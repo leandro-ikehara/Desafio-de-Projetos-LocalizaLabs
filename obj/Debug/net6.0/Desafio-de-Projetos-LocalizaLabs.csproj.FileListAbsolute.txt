@@ -1,0 +1,15 @@
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\obj\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.csproj.AssemblyReference.cache
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\obj\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\obj\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.AssemblyInfoInputs.cache
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\obj\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.AssemblyInfo.cs
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\obj\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.csproj.CoreCompileInputs.cache
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\bin\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.exe
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\bin\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.deps.json
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\bin\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.runtimeconfig.json
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\bin\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.dll
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\bin\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.pdb
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\obj\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.dll
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\obj\Debug\net6.0\refint\Desafio-de-Projetos-LocalizaLabs.dll
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\obj\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.pdb
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\obj\Debug\net6.0\Desafio-de-Projetos-LocalizaLabs.genruntimeconfig.cache
+D:\Programacao\Desafio-de-Projetos-LocalizaLabs\obj\Debug\net6.0\ref\Desafio-de-Projetos-LocalizaLabs.dll
